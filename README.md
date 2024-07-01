@@ -1,1 +1,1 @@
-This is my first git repository. I've edited this file.
+This is my first git repository. I have further edited this file.
